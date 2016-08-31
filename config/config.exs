@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :badge_firmata_host, key: :value
+#     config :blinky_firmdata_host, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:badge_firmata_host, :key)
+#     Application.get_env(:blinky_firmdata_host, :key)
 #
 # Or configure a 3rd-party app:
 #
