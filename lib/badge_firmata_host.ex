@@ -1,0 +1,2 @@
+defmodule BadgeFirmataHost do
+end
